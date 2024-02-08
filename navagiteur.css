@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
+
 /*ul {
     list-style-type: none;
     margin: 0;
@@ -17,6 +19,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: "Walter Turncoat", cursive;;
 }
 
 li a:hover {

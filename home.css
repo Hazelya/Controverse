@@ -13,10 +13,16 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%); /* réaligne bien */
+    color: white;
 }
 
 .footer{
     width: 100%;
     position: absolute;
     bottom: 0;
+}
+
+body{
+    background-image: url("images/ampoule.jpg");
+    background-size: cover;
 }
