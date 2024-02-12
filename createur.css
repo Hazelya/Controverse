@@ -2,3 +2,27 @@ body{
     background-image: url("images/tableauV.png");
     background-size: cover;
 }
+
+.intro{
+    padding: 50px;
+}
+
+.intro h3{
+    color: white;
+    position: relative;
+}
+
+.nous img{
+    /*padding: 15px;*/
+    width: 80%;
+}
+
+.nous {
+    padding: 15px;
+}
+
+.tete{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
