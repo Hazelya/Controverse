@@ -5,3 +5,11 @@ body{
     text-align: center;
 }
 
+.carte img {
+    height: 72vh; /* 1080 * 15 */
+    width: 128vh; /* 1920 * 15 */
+}
+
+.texte {
+    padding: 25px;
+}
