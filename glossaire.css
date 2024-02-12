@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
+
+
 body{
     background-image: url("images/tableauV.png");
     background-size: cover;
@@ -23,4 +26,5 @@ dd {
 
 body {
     color: white;
+    font-family: "Walter Turncoat", cursive;;
 }

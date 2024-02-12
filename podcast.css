@@ -1,6 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
+
+
 body{
     background-image: url("images/tableauV.png");
     background-size: cover;
+    font-family: "Walter Turncoat", cursive;;
+
 }
 
 
@@ -40,4 +45,9 @@ audio {
     .nav-link {
         max-width: 120px;
     }
+}
+
+p{
+    color: white;
+    text-align: center;
 }
