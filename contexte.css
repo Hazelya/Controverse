@@ -1,6 +1,6 @@
 body{
     background-image: url("images/tableauV.png");
-    background-size: cover;
+    /* le size : cover fait planté l'image */
 }
 
 .acteur-item {

@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
+
+
+body{
+    background-image: url("images/tableauV.png");
+    /* le size : cover fait planté l'image */
+    color: white;
+    font-family: "Walter Turncoat", cursive;
+}
+
+.biblio{
+    padding: 30px;
+}
+
+.biblio h2{
+    padding: 15px;
+}
+
+.biblio li {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
