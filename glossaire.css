@@ -3,7 +3,7 @@
 
 body{
     background-image: url("images/tableauV.png");
-    background-size: cover;
+    /*background-size: cover;*/
 }
 
 .glossaire-container {
@@ -27,4 +27,15 @@ dd {
 body {
     color: white;
     font-family: "Walter Turncoat", cursive;;
+}
+
+.motscroisés{
+    display: flex;
+    justify-content: center;
+}
+
+.motscroisés img{
+    margin: 20px;
+    max-width : 65%;
+    height : auto;
 }
