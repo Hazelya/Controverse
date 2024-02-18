@@ -6,3 +6,10 @@ body{
 .acteur-item {
     margin: 50px;
 }
+
+.resume{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
