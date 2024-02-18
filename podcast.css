@@ -8,6 +8,10 @@ body{
 
 }
 
+h1 {
+    color: white;
+}
+
 
 .podcast-container {
     max-width: 800px;

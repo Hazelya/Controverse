@@ -19,3 +19,20 @@ body{
     text-align: justify;
     margin-bottom: 20px;
 }
+
+p{
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
+a.download-link {
+    text-decoration: underline;
+    color: blue; /* Couleur typique des liens pour indiquer la cliquabilité */
+}
